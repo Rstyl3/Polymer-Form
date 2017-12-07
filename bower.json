@@ -1,0 +1,22 @@
+{
+  "name": "exflow-wco",
+  "description": "this is a test",
+  "main": "index.html",
+  "dependencies": {
+    "polymer": "Polymer/polymer#^2.0.0",
+    "app-layout": "^2.0.4",
+    "iron-input": "^2.0.1",
+    "paper-button": "^2.0.0",
+    "paper-styles": "^2.0.0",
+    "paper-input": "^2.0.5",
+    "iron-form": "^2.0.1",
+    "iron-ajax": "^2.0.6",
+    "paper-dropdown-menu": "^2.0.0",
+    "paper-listbox": "^2.0.0",
+    "paper-item": "^2.0.0"
+  },
+  "devDependencies": {
+    "web-component-tester": "Polymer/web-component-tester#^6.0.0",
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^1.0.0"
+  }
+}

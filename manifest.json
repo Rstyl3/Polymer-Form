@@ -1,0 +1,7 @@
+{
+  "name": "exflow-wco",
+  "short_name": "exflow-wco",
+  "description": "this is a test",
+  "start_url": "/",
+  "display": "standalone"
+}
